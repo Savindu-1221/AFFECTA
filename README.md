@@ -44,7 +44,7 @@ AFFECTA/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/AFFECTA.git
+git clone https://github.com/Savindu-1221/AFFECTA.git
 cd AFFECTA
 cd backend
 # (Create virtual environment)
